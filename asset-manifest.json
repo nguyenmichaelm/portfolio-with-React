@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nguyenmichaelm/portfolio-with-react.git/static/css/main.073c9b0a.css",
-    "main.js": "/nguyenmichaelm/portfolio-with-react.git/static/js/main.90a5c9d7.js",
+    "main.js": "/nguyenmichaelm/portfolio-with-react.git/static/js/main.0ca31f34.js",
     "static/js/787.51ee14cf.chunk.js": "/nguyenmichaelm/portfolio-with-react.git/static/js/787.51ee14cf.chunk.js",
     "static/media/logo.svg": "/nguyenmichaelm/portfolio-with-react.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nguyenmichaelm/portfolio-with-react.git/index.html",
     "main.073c9b0a.css.map": "/nguyenmichaelm/portfolio-with-react.git/static/css/main.073c9b0a.css.map",
-    "main.90a5c9d7.js.map": "/nguyenmichaelm/portfolio-with-react.git/static/js/main.90a5c9d7.js.map",
+    "main.0ca31f34.js.map": "/nguyenmichaelm/portfolio-with-react.git/static/js/main.0ca31f34.js.map",
     "787.51ee14cf.chunk.js.map": "/nguyenmichaelm/portfolio-with-react.git/static/js/787.51ee14cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.90a5c9d7.js"
+    "static/js/main.0ca31f34.js"
   ]
 }
