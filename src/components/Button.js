@@ -3,7 +3,7 @@ import './Button.css';
 
 function Button({ button }) {
   return (
-    <a className='button' href={button.url}>
+    <a className='button' href={button.url} target="_blank">
       {button.text}
     </a>
   );

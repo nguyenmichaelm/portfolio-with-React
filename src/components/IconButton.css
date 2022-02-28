@@ -1,0 +1,22 @@
+.icon {
+  background-color: #d8b9c3;
+  max-width: 50px;
+  width: 20vw;
+  max-height: 50px;
+  padding: 0.5rem;
+  border-radius: 15px;
+  margin: 0 2vw;
+  box-shadow: 0px 10px 14px 7px #276873;
+}
+
+.icon:hover {
+  transform: scale(1.25);
+}
+
+@media (max-width: 1028px) {  
+  .icon {
+      max-height: 35px;
+      width: 10vw;
+      margin: 0 0.5rem;
+  }
+}
