@@ -1,23 +1,27 @@
+import envelopeSVG from "./static/media/envelope-regular.svg";
+import facebookSVG from "./static/media/facebook-f-brands.svg";
+import linkedinSVG from "./static/media/linkedin-in-brands.svg";
+
 export const iconButtonInfoList = [
   {
     key: 1,
     title: "email",
     url: "mailto:nguyenmichaelm@yahoo.com",
-    src: "./media/envelope-regular.svg",
+    src: "../static/media/envelope-regular.svg",
     alt: "email-icon"
   },
   {
     key: 2,
     title: "linkedin",
     url: "https://www.linkedin.com/in/nguyenmichaelm",
-    src: "src/media/linkedin-in-brands.svg",
+    src: { linkedinSVG },
     alt: "linkedin-icon"
   },
   {
     key: 3,
     title: "facebook",
     url: "https://www.facebook.com/nguyenmichaelm",
-    src: "src/media/facebook-f-brands.svg",
+    src: { facebookSVG },
     alt: "facebook-icon"
   }
 ];

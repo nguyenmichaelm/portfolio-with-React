@@ -2,7 +2,7 @@ import './App.css';
 import React from 'react';
 import Header from './Header';
 import AboutSection from './AboutSection';
-import ProjectDisplay from './ProjectDisplay';
+import ProjectDisplay from '../components/ProjectDisplay';
 import Footer from './Footer';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <main className="App">
       <Header />
       <AboutSection />
-      {/* <ProjectDisplay /> */}
+      <ProjectDisplay />
       <Footer />
     </main>
   );

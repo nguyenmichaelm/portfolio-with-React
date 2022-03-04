@@ -5,7 +5,8 @@ import {iconButtonInfoList} from "../database";
 function IconButtonList() { 
   return (
     iconButtonInfoList.map((info) => {
-      return <IconButton
+      console.log(info);
+      return (<IconButton
         key={info.key}
         iconButton={
           {
@@ -14,7 +15,8 @@ function IconButtonList() {
             alt: info.alt
           }
         } />
-    })  
+      );
+    })
   );
 }
 
